@@ -335,7 +335,7 @@ body.light-theme {
 .home__handle {
   justify-self: center;
   width: 200px;
-  height: 308px;
+  height: 270px;
   background: linear-gradient(
     180deg,
     hsla(var(--first-hue), var(--sat), var(--lig), 0.5),
@@ -1102,7 +1102,7 @@ body.light-theme {
 
   .home__handle {
     width: 220px;
-    height: 335px;
+    height: 290px;
   }
 
   .home__img {
